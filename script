@@ -1,0 +1,8 @@
+
+
+cd env1
+source bin/activate
+python3 twee_sentan.py
+
+
+deactivate
