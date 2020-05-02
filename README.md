@@ -1,4 +1,4 @@
-# Tweet_Sentimenta_Annalysis
+# Tweet_Sentimental_Annalysis
 User input a query(topic) and this program run Sentimental analysis on  tweets and show percentage of positive, negative and neutral tweets and also display top 10 tweets.
 
 
